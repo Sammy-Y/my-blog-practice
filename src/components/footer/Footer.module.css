@@ -1,0 +1,20 @@
+.footer {
+  margin-left: 1.5rem;
+  margin-right: 1.5rem;
+}
+
+.hor_line hr {
+  border-color: rgba(132, 149, 173, 0.3);
+}
+
+.right {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  display: flex;
+  justify-content: space-between;
+}
+
+.right div span {
+  color: #d5ded4;
+  font-size: 1rem;
+}

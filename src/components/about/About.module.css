@@ -1,0 +1,26 @@
+#about {
+  margin-left: 1.5rem;
+  margin-right: 1.5rem;
+}
+
+#about h1 {
+  margin-top: 0.75rem;
+  margin-bottom: 0.75rem;
+  font-size: 2rem;
+  color: #d5ded4;
+}
+
+.pic {
+  max-width: 100%;
+  /* max-height: 48rem; */
+}
+
+#about h2 {
+  margin-top: 1.25rem;
+  color: #d5ded4;
+}
+
+#about p {
+  color: #d5ded4;
+  margin: 0.75rem 0 0.75rem 0;
+}

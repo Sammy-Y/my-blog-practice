@@ -1,0 +1,37 @@
+#Travel {
+  margin-left: 1.5rem;
+  margin-right: 1.5rem;
+}
+
+#Travel svg {
+  fill: "#EEE";
+}
+
+#Travel p {
+  margin-top: 1.5rem;
+  color: #d5ded4;
+}
+
+#Travel svg g {
+  width: 100%;
+  height: 100%;
+}
+
+#Travel h1 {
+  margin-top: 0.75rem;
+  margin-bottom: 0.75rem;
+  font-size: 2rem;
+  color: #d5ded4;
+}
+
+#Travel h2 {
+  margin-top: 0.75rem;
+  margin-bottom: 0.75rem;
+  font-size: 2rem;
+  color: #d5ded4;
+}
+
+.map {
+  width: 100%;
+  height: 800px;
+}

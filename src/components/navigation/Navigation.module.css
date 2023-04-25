@@ -1,0 +1,46 @@
+.nav_container {
+  margin-bottom: 2.5rem;
+  height: 10;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-left: 1.5rem;
+  margin-right: 1.5rem;
+}
+
+.navhome {
+  display: flex;
+  /* justify-content: space-between; */
+  /* padding: 1rem; */
+}
+
+.navbar {
+  width: 60%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.hor_line {
+  margin-left: 1.5rem;
+  margin-right: 1.5rem;
+}
+
+.hor_line hr {
+  border-color: rgba(132, 149, 173, 0.3);
+}
+
+a {
+  font-size: 1.2rem;
+  color: #d5ded4;
+  /* color: rgb(26, 217, 217); */
+  text-decoration: none; /* 移除連結底線 */
+}
+
+.navbar a:hover {
+  color: #41d1eb;
+}
+
+.right span {
+  color: #d5ded4;
+}
